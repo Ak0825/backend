@@ -1,0 +1,6 @@
+.DS_Store
+.env
+.nyc_output/
+dump.rdb
+node_modules/
+uploads/
